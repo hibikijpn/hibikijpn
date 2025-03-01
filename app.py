@@ -63,7 +63,7 @@ class ExpenseTracker:
 st.title("旅行費用精算アプリ")
 
 # メンバーの設定
-members = ["A", "B", "C"]
+members = ["大谷", "中井", "木村"]
 tracker = ExpenseTracker(members)
 
 # 入力フォーム
